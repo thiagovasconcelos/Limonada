@@ -6,9 +6,9 @@ export default function Footer(){
     return(
         <div className="redes">
             <img src={Instagram} alt="insta"></img>
-            <p>Instagram</p>
+            <p>@limonadapop</p>
             <img src={Facebook} alt="face"></img>
-            <p>Facebook</p>
+            <p>limonadapop</p>
         </div>
     );
 }

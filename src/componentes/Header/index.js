@@ -7,7 +7,7 @@ export default function Header(){
         <header className="header">
             <img src={logo} alt="logo limonada" width={500} height={200} />
             <button>Menu</button>
-
+            
         </header>
     )
 }

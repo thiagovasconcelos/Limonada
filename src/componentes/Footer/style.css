@@ -5,5 +5,14 @@
     width: 100vw;
     align-items: center;
     display: flex;
+    background-color: #fdfbf6;
     
+}
+.redes img{
+    width: 40px;
+    height: 40px;
+
+}
+.redes p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
