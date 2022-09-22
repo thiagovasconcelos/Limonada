@@ -6,7 +6,14 @@ export default function Header(){
     return(
         <header className="header">
             <img src={logo} alt="logo limonada" width={500} height={200} />
-            <button>Menu</button>
+           
+            <div className="Menu">
+            <a>Programação Cultural</a>
+            <a>Cobertura Fotógrafica</a>
+            <a>Ingressos</a>
+            <a>Produção Cultural</a>
+            </div>
+
             
         </header>
     )

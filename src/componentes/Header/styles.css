@@ -1,8 +1,22 @@
 .header{
     background-color: #fdfbf6;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+
 }
 button{
     height: 20px;
 }
+.menu{
+    
+}
+.Menu a{
+    margin-left: 20px;
+    font-size: x-large;
+    
+}
+a:hover {
+    color: #c9e265;
+}
+

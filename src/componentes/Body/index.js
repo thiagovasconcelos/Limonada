@@ -1,6 +1,6 @@
 import React from "react";
 import Fhome from "../../assets/fotoHome.jpg"
-import Fh2 from "../../assets/Fh2.jpg"
+import Fh2 from "../../assets/LimonadaPop.jpg"
 import "./style.css"
 export default function Body(){
     return(
@@ -9,7 +9,7 @@ export default function Body(){
                 <img   src={Fh2} alt="FotoHome2" width="100%" height="100%" ></img>
             </div>
             <div className="container-img">
-                <img classeName="Fhome" src={Fhome} alt="FotoHome" width="100%" ></img>
+                <img classeName="LimonadaPop" src={Fhome} alt="FotoHome" width="100%" ></img>
             </div>
         </div>
         
