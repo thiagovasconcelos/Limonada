@@ -1,0 +1,21 @@
+.ProdCul{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    
+
+    
+}
+.Event{
+    background-color: greenyellow;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+    border-radius: 500px ;
+
+}
+.Event:hover{
+    background-color: rgb(157, 214, 72);
+}

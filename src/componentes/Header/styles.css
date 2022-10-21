@@ -1,22 +1,18 @@
 .header{
-    background-color: #fdfbf6;
+    background-color: #3b3b3a;
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    height: 20%;
 }
-button{
-    height: 20px;
-}
-.menu{
-    
-}
-.Menu a{
+.link {
+    text-decoration: none;
     margin-left: 20px;
-    font-size: x-large;
-    
-}
-a:hover {
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     color: #c9e265;
+}
+.link:hover {
+    color: whitesmoke;
 }
 

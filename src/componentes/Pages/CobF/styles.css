@@ -1,0 +1,25 @@
+
+.containerF1{
+    display: flex;
+    align-items: center;
+}
+
+.containerF2{
+    display: flex;
+    align-items: center;
+}
+.containerF3{
+    display: flex;
+    align-items: center;
+}
+.fotos {
+    
+    padding: 10px 20px;
+    width: 300px;
+    height: 200x;
+
+}
+.fotos:hover{
+    width: 310px;
+    height: 210px;
+}
