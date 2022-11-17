@@ -3,17 +3,22 @@
     left: 0;
     bottom: 0;
     width: 100vw;
-    align-items: center;
+    height: 10vh;
     display: flex;
+    align-items: flex-end;
+    justify-content: center;
     background-color: #c9e265;
     
 }
 .redes img{
     width: 40px;
     height: 40px;
+    padding: 10px;
+    
 
 }
-.redes p{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bolder;
+.redes img:hover{
+    width: 45px;
+    height: 45px;
+    
 }

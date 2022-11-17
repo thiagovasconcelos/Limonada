@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../assets/logo2.png";
+import logo from "../../assets/logo4.png";
 import "./styles.css";
 import { Link } from 'react-router-dom';
 
@@ -8,7 +8,7 @@ export default function Header(){
     return (
         <header className="header">
                 <div className="logo">
-                    <img src={logo} alt="logo limonada" width={500} height={200} />
+                    <img src={logo} alt="logo limonada" width={300} height={100} />
                 </div>
                 <div className="Menu">
                     <nav>
