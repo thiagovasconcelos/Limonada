@@ -14,9 +14,8 @@ export default function Header(){
                     <nav>
                         
                             <Link className="link" to= "/">Inicio</Link>
-                            <Link className="link" to="/progcul">Programação Cultural</Link>
                             <Link className="link" to="/cobf">Cobertura Fotógrafica</Link>
-                            <Link className="link" to="/ingressos">Ingressos</Link>
+                            <Link className="link" to="/ingressos">Programação Cultural</Link>
                             <Link className="link" to="/prodcul">Produção Cultural</Link>
                         
                     </nav>

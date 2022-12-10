@@ -5,7 +5,8 @@ import Home from './componentes/Pages/Home/Home';
 import Cobf from "./componentes/Pages/CobF";
 import Ingressos from "./componentes/Pages/Ingressos/index";
 import ProdCul from "./componentes/Pages/ProdCul/index";
-import ProgCul from "./componentes/Pages/ProgCul/index";
+import Cobf2 from "./componentes/Pages/CobF/CobF2/index";
+import Cobf3 from "./componentes/Pages/CobF/CobF3/index";
 
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
       <Route  path="/ingressos" element={<Ingressos />}/>
       <Route  path="/cobf" element={<Cobf />}/>
       <Route path="/prodcul" element={<ProdCul />}/>   
-      <Route exact path="/progcul" element={<ProgCul />} />
+      <Route exact path="/CobF2" element={<Cobf2 />} />
+      <Route exact path="/CobF3" element={<Cobf3 />}/>
     </Routes>
 
   );
